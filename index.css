@@ -1,0 +1,49 @@
+body{
+  text-align: center;
+  background-color: #753188;
+}
+.top{
+  background-color: #753188;
+}
+.text{
+  color: #fff;
+}
+.top1{
+  height: 10px;
+  background-color: #FF0000;
+  width: 100%;
+}
+.middle{
+  background-color: #fff;
+  height: 450px;
+  width: 100%;
+}
+.image{
+  padding-top: 10px;
+  height: 250px;
+}
+.image2{
+  margin-top: 10px;
+  height: 50px;
+}
+.text{
+  color: #090910;
+  font-family: fantasy;
+}
+.content{
+  font-family: fantasy;
+  text-align: left;
+}
+.content1{
+  color: #753188;
+}
+.heading{
+  color:  #FF0000;
+font-family: fantasy;
+padding-right: 35px;
+}
+.bottom{
+  text-align: right;
+  font-size: 15px;
+  color: #fff;
+}
